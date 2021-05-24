@@ -1,2 +1,4 @@
 vendor
 resource/protobuf/**/*.php
+.idea
+.vscode

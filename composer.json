@@ -12,7 +12,8 @@
     "autoload": {
         "psr-4": {
             "App\\": "src",
-            "Proto\\": "resource/protobuf/generated-class/Proto"
+            "Proto\\": "resource/protobuf/generated-class/Proto",
+            "GPBMetadata\\": "resource/protobuf/generated-class/GPBMetadata"
         }
     },
     "require": {
